@@ -1,0 +1,24 @@
+node_modules
+package-lock.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# .gitignore means we install so many file it will take large data to store, 
+# we use this whatever we install every thing is stored her only
