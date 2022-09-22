@@ -10,7 +10,6 @@ const get_students_by_id =async(req, res)=>{
         else
         console.log(err)
     })
-  
 } catch(err){
     console.log("error in api get_student_data " , err)
     res.send({status : 400 , data: "something went wrong"})
